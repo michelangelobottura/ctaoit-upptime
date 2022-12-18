@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/indico.cta-observatory.org.ico",
     "slug": "indico",
     "status": "down",
-    "uptime": "5.95%",
-    "uptimeDay": "5.95%",
-    "uptimeWeek": "5.95%",
-    "uptimeMonth": "5.95%",
-    "uptimeYear": "5.95%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-18": 0
+      "2022-12-18": 2
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1835,
-    "timeDay": 1835,
-    "timeWeek": 1835,
-    "timeMonth": 1835,
-    "timeYear": 1835,
+    "time": 1764,
+    "timeDay": 1764,
+    "timeWeek": 1764,
+    "timeMonth": 1764,
+    "timeYear": 1764,
     "dailyMinutesDown": {}
   },
   {
@@ -48,11 +48,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1070,
-    "timeDay": 1070,
-    "timeWeek": 1070,
-    "timeMonth": 1070,
-    "timeYear": 1070,
+    "time": 1258,
+    "timeDay": 1258,
+    "timeWeek": 1258,
+    "timeMonth": 1258,
+    "timeYear": 1258,
     "dailyMinutesDown": {}
   },
   {
@@ -66,11 +66,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 784,
-    "timeDay": 784,
-    "timeWeek": 784,
-    "timeMonth": 784,
-    "timeYear": 784,
+    "time": 704,
+    "timeDay": 704,
+    "timeWeek": 704,
+    "timeMonth": 704,
+    "timeYear": 704,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +84,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 743,
-    "timeDay": 743,
-    "timeWeek": 743,
-    "timeMonth": 743,
-    "timeYear": 743,
+    "time": 742,
+    "timeDay": 742,
+    "timeWeek": 742,
+    "timeMonth": 742,
+    "timeYear": 742,
     "dailyMinutesDown": {}
   },
   {
@@ -97,18 +97,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/jama.cta-observatory.org.ico",
     "slug": "jama-8800",
     "status": "down",
-    "uptime": "8.88%",
-    "uptimeDay": "8.88%",
-    "uptimeWeek": "8.88%",
-    "uptimeMonth": "8.88%",
-    "uptimeYear": "8.88%",
+    "uptime": "0.92%",
+    "uptimeDay": "0.92%",
+    "uptimeWeek": "0.92%",
+    "uptimeMonth": "0.92%",
+    "uptimeYear": "0.92%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2022-12-18": 0
+      "2022-12-18": 2
     }
   }
 ]
