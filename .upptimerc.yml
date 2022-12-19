@@ -15,7 +15,7 @@ sites:
     url: https://jama.cta-observatory.org
   - name: Jama 8800
     check: "tcp-ping"
-    url: https://jama.cta-observatory.org:8800/authenticate?redirect=/
+    url: https://jama.cta-observatory.org
     port: 8800
 
 status-website:
