@@ -112,19 +112,19 @@
     "url": "reliasoft.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "rams-license-server",
-    "status": "down",
-    "uptime": "98.57%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.57%",
-    "uptimeYear": "98.57%",
+    "status": "up",
+    "uptime": "98.52%",
+    "uptimeDay": "98.78%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "98.52%",
+    "uptimeYear": "98.52%",
     "time": 245,
-    "timeDay": 278,
-    "timeWeek": 250,
+    "timeDay": 262,
+    "timeWeek": 249,
     "timeMonth": 245,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2023-01-11": 0,
+      "2023-01-11": 18,
       "2022-12-19": 482
     }
   }
