@@ -40,18 +40,20 @@
     "url": "https://redmine.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.cta-observatory.org.ico",
     "slug": "redmine-cta-observatory-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2052,
-    "timeDay": 1989,
-    "timeWeek": 2010,
-    "timeMonth": 2058,
-    "timeYear": 2052,
-    "dailyMinutesDown": {}
+    "time": 2048,
+    "timeDay": 1960,
+    "timeWeek": 1997,
+    "timeMonth": 2052,
+    "timeYear": 2048,
+    "dailyMinutesDown": {
+      "2023-01-21": 0
+    }
   },
   {
     "name": "gitlab.cta-observatory.org",
