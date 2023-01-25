@@ -4,19 +4,19 @@
     "url": "https://www.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/www.cta-observatory.org.ico",
     "slug": "www-cta-observatory-org",
-    "status": "down",
-    "uptime": "99.89%",
-    "uptimeDay": "96.07%",
-    "uptimeWeek": "99.44%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.89%",
-    "time": 962,
-    "timeDay": 1017,
-    "timeWeek": 944,
-    "timeMonth": 960,
-    "timeYear": 962,
+    "status": "up",
+    "uptime": "99.86%",
+    "uptimeDay": "94.89%",
+    "uptimeWeek": "99.27%",
+    "uptimeMonth": "99.83%",
+    "uptimeYear": "99.86%",
+    "time": 1161,
+    "timeDay": 4977,
+    "timeWeek": 1943,
+    "timeMonth": 1210,
+    "timeYear": 1161,
     "dailyMinutesDown": {
-      "2023-01-25": 57
+      "2023-01-25": 74
     }
   },
   {
@@ -42,9 +42,9 @@
     "url": "https://redmine.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.cta-observatory.org.ico",
     "slug": "redmine-cta-observatory-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -53,7 +53,9 @@
     "timeWeek": 2068,
     "timeMonth": 2020,
     "timeYear": 2057,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 0
+    }
   },
   {
     "name": "gitlab.cta-observatory.org",
