@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cta-observatory.org.ico",
     "slug": "www-cta-observatory-org",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "99.92%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.92%",
     "time": 962,
     "timeDay": 1017,
     "timeWeek": 944,
     "timeMonth": 960,
     "timeYear": 962,
     "dailyMinutesDown": {
-      "2023-01-25": 1
+      "2023-01-25": 42
     }
   },
   {
@@ -60,10 +60,10 @@
     "url": "https://gitlab.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cta-observatory.org.ico",
     "slug": "gitlab-cta-observatory-org",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1380,
@@ -71,7 +71,9 @@
     "timeWeek": 1440,
     "timeMonth": 1394,
     "timeYear": 1380,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-01-25": 1
+    }
   },
   {
     "name": "git.cta-observatory.org",
