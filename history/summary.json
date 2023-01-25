@@ -42,19 +42,19 @@
     "url": "https://redmine.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/redmine.cta-observatory.org.ico",
     "slug": "redmine-cta-observatory-org",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 2057,
-    "timeDay": 2008,
-    "timeWeek": 2068,
-    "timeMonth": 2020,
-    "timeYear": 2057,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.34%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 2191,
+    "timeDay": 4963,
+    "timeWeek": 2556,
+    "timeMonth": 2183,
+    "timeYear": 2191,
     "dailyMinutesDown": {
-      "2023-01-25": 0
+      "2023-01-25": 10
     }
   },
   {
