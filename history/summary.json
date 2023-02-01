@@ -7,7 +7,7 @@
     "status": "up",
     "uptime": "99.83%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "98.95%",
+    "uptimeWeek": "99.30%",
     "uptimeMonth": "99.76%",
     "uptimeYear": "99.83%",
     "time": 1125,
@@ -62,9 +62,9 @@
     "url": "https://gitlab.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cta-observatory.org.ico",
     "slug": "gitlab-cta-observatory-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.54%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.93%",
@@ -74,6 +74,7 @@
     "timeMonth": 1407,
     "timeYear": 1388,
     "dailyMinutesDown": {
+      "2023-02-01": 0,
       "2023-01-25": 46
     }
   },
