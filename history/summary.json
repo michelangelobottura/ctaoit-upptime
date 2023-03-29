@@ -13,7 +13,7 @@
     "time": 1086,
     "timeDay": 1047,
     "timeWeek": 1023,
-    "timeMonth": 997,
+    "timeMonth": 995,
     "timeYear": 1086,
     "dailyMinutesDown": {
       "2023-01-25": 106
@@ -33,7 +33,7 @@
     "time": 851,
     "timeDay": 979,
     "timeWeek": 803,
-    "timeMonth": 823,
+    "timeMonth": 819,
     "timeYear": 851,
     "dailyMinutesDown": {
       "2023-03-13": 32
@@ -53,7 +53,7 @@
     "time": 2304,
     "timeDay": 2561,
     "timeWeek": 2064,
-    "timeMonth": 2275,
+    "timeMonth": 2126,
     "timeYear": 2304,
     "dailyMinutesDown": {
       "2023-02-09": 41,
@@ -65,19 +65,19 @@
     "url": "https://gitlab.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.cta-observatory.org.ico",
     "slug": "gitlab-cta-observatory-org",
-    "status": "down",
-    "uptime": "99.97%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
-    "time": 2154,
-    "timeDay": 6312,
-    "timeWeek": 5021,
-    "timeMonth": 3236,
-    "timeYear": 2154,
+    "status": "up",
+    "uptime": "99.96%",
+    "uptimeDay": "99.11%",
+    "uptimeWeek": "99.87%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.96%",
+    "time": 2148,
+    "timeDay": 6040,
+    "timeWeek": 4871,
+    "timeMonth": 3230,
+    "timeYear": 2148,
     "dailyMinutesDown": {
-      "2023-03-29": 0,
+      "2023-03-29": 13,
       "2023-01-25": 46
     }
   },
@@ -95,7 +95,7 @@
     "time": 835,
     "timeDay": 903,
     "timeWeek": 824,
-    "timeMonth": 828,
+    "timeMonth": 823,
     "timeYear": 835,
     "dailyMinutesDown": {
       "2023-03-29": 41,
@@ -120,7 +120,7 @@
     "time": 940,
     "timeDay": 1006,
     "timeWeek": 926,
-    "timeMonth": 1056,
+    "timeMonth": 1059,
     "timeYear": 940,
     "dailyMinutesDown": {
       "2023-03-27": 42,
@@ -145,7 +145,7 @@
     "time": 256,
     "timeDay": 334,
     "timeWeek": 274,
-    "timeMonth": 284,
+    "timeMonth": 286,
     "timeYear": 256,
     "dailyMinutesDown": {
       "2023-02-14": 131,
