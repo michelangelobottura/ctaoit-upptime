@@ -26,9 +26,9 @@
     "url": "https://indico.cta-observatory.org",
     "icon": "https://icons.duckduckgo.com/ip3/indico.cta-observatory.org.ico",
     "slug": "indico-cta-observatory-org",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -38,6 +38,7 @@
     "timeMonth": 829,
     "timeYear": 858,
     "dailyMinutesDown": {
+      "2023-08-30": 0,
       "2023-03-13": 32
     }
   },
@@ -97,9 +98,9 @@
     "slug": "git-cta-observatory-org",
     "status": "up",
     "uptime": "98.51%",
-    "uptimeDay": "96.51%",
-    "uptimeWeek": "99.50%",
-    "uptimeMonth": "99.85%",
+    "uptimeDay": "97.32%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "98.51%",
     "time": 836,
     "timeDay": 734,
@@ -107,7 +108,7 @@
     "timeMonth": 769,
     "timeYear": 836,
     "dailyMinutesDown": {
-      "2023-08-30": 51,
+      "2023-08-30": 39,
       "2023-07-31": 16,
       "2023-06-14": 38,
       "2023-03-29": 41,
