@@ -1,7 +1,7 @@
 url: https://gitlab.cta-observatory.org
-status: up
-code: 200
-responseTime: 1437
-lastUpdated: 2023-10-10T23:02:20.369Z
+status: down
+code: 502
+responseTime: 969
+lastUpdated: 2023-10-11T07:33:28.856Z
 startTime: 2022-12-19T08:57:07.000Z
 generator: Upptime <https://github.com/upptime/upptime>
