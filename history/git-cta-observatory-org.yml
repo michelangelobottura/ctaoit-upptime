@@ -1,7 +1,7 @@
 url: https://git.cta-observatory.org
-status: up
-code: 200
-responseTime: 743
-lastUpdated: 2023-10-17T23:02:29.748Z
+status: down
+code: 502
+responseTime: 4340
+lastUpdated: 2023-10-18T09:32:12.811Z
 startTime: 2022-12-19T08:57:09.000Z
 generator: Upptime <https://github.com/upptime/upptime>
