@@ -1,7 +1,7 @@
 url: https://indico.cta-observatory.org
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-12-19T00:10:07.493Z
+status: up
+code: 200
+responseTime: 845
+lastUpdated: 2023-12-19T10:07:06.545Z
 startTime: 2022-12-19T08:57:04.000Z
 generator: Upptime <https://github.com/upptime/upptime>
