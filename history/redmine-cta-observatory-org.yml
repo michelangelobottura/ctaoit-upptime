@@ -1,7 +1,7 @@
 url: https://redmine.cta-observatory.org
-status: up
-code: 200
-responseTime: 2303
-lastUpdated: 2024-01-27T23:02:12.548Z
+status: down
+code: 503
+responseTime: 2397
+lastUpdated: 2024-01-28T02:12:33.267Z
 startTime: 2022-12-19T08:57:06.000Z
 generator: Upptime <https://github.com/upptime/upptime>
